@@ -20,3 +20,8 @@ Online Retail Dataset (UCI Machine Learning Repository)
 
 ## Status
 Work in progress
+
+## Data Access
+The raw dataset is not included in this repository due to file size limitations.
+You can download the dataset from the UCI Machine Learning Repository:
+Online Retail Dataset.
