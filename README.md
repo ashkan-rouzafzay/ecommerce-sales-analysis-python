@@ -1,10 +1,22 @@
 # E-commerce Sales Analysis (Python)
 
 ## Overview
-This project explores e-commerce transaction data to understand sales trends and customer behavior.
+This project explores e-commerce transaction data to understand sales trends and customer behavior using Python and pandas.
 
 ## Dataset
 Online Retail Dataset (UCI Machine Learning Repository)
+
+> Note: Raw dataset is not included due to file size limitations. You can download it from UCI.
+
+## Key Insights
+- Monthly sales trend shows seasonal peaks (e.g., December).
+- Top 10 products account for significant revenue.
+- Top 5 customers contribute the highest monetary value.
+
+## Project Structure
+- `data/raw`: Raw dataset files (not uploaded to GitHub)
+- `notebooks`: Jupyter notebooks for analysis
+- `requirements.txt`: Project dependencies
 
 ## Tools
 - Python
@@ -13,15 +25,5 @@ Online Retail Dataset (UCI Machine Learning Repository)
 - matplotlib
 - Jupyter Notebook
 
-## Project Structure
-- data/raw: raw dataset files
-- notebooks: Jupyter notebooks for analysis
-- requirements.txt: project dependencies
-
 ## Status
 Work in progress
-
-## Data Access
-The raw dataset is not included in this repository due to file size limitations.
-You can download the dataset from the UCI Machine Learning Repository:
-Online Retail Dataset.
